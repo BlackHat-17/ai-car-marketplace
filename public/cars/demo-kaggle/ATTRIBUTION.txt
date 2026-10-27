@@ -1,0 +1,15 @@
+This directory contains selected images from the Cars Image Dataset:
+
+Title: Car Images Dataset
+Creator: Kshitij Kumar (Kaggle user kshitij192)
+Source: https://www.kaggle.com/datasets/kshitij192/cars-image-dataset
+Dataset version: 3
+Source-declared license: GNU General Public License v2.0 (GPL-2.0)
+License text: https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+
+The dataset description requests attribution to the creator. These selected
+images are copied from the dataset's test split. Their class names identify
+image categories only; they do not verify any listing details.
+
+The Prisma records that use these images are demo/test listings. Their vehicle
+specifications are illustrative and are not real offers for sale.
